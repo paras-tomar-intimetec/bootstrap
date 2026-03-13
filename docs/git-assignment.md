@@ -1,4 +1,4 @@
-### **Git Practice Assignment**
+Git Practice Assignment
 
 
 
@@ -6,229 +6,229 @@ This document demonstrates the Git commands practiced during the assignment alon
 
 
 
-1-Branch and Checkout 
+\## Branch and Checkout 
 
 
 Screenshot : 
 
 
-!\[git branch and checkout](docs/images/branch\_checkout.png)
+!\[git branch and checkout](images/branch\_checkout.png)
 
 
 
 
-2-Making Files
-
-
-Screenshot : 
-
-
-!\[making files](docs/images/making-files.png)
-
-
-
-
-3-Modify Files
+\## Making Files
 
 
 Screenshot : 
 
 
-!\[modify files](docs/images/modify-files.png)
+!\[making files](images/making-files.png)
 
 
 
 
-4-cd and pwd
+\## Modify Files
 
 
 Screenshot : 
 
 
-!\[cd and pwd](docs/images/cd\_pwd.png)
+!\[modify files](images/modify-files.png)
+
+
+
+
+\## cd and pwd
+
+
+Screenshot : 
+
+
+!\[cd and pwd](images/cd\_pwd.png)
  
 
 
 
-5-git add
+\## git add
 
 
 Screenshot : 
 
 
-!\[git add](docs/images/git-add.png)
+!\[git add](images/git-add.png)
 
 
 
 
-6-git branch
-
-
-Screenshot : 
-
-
-!\[git branch](docs/images/git-branch.png)
-
-
-
-
-7-new feature branch
+\## git branch
 
 
 Screenshot : 
 
 
-!\[git branch feature-branch](docs/images/new-feature-branch.png)
+!\[git branch](images/git-branch.png)
 
 
 
 
-8-git clone 
-
-
-Screenshot : 
-
-
-!\[git clone](docs/images/git-clone.png)
-
-
-
-
-9-git commit -m
+\## new feature branch
 
 
 Screenshot : 
 
 
-!\[git commit](docs/images/git-commit-m.png)
+!\[git branch feature-branch](images/new-feature-branch.png)
 
 
 
 
-10-git log
-
-
-Screenshot : 
-
-
-!\[git log](docs/images/git-log.png)
-
-
-
-
-11--git diff
+\## git clone 
 
 
 Screenshot : 
 
 
-!\[git diff](docs/images/git-diff.png)
+!\[git clone](images/git-clone.png)
 
 
 
 
-12-git remote -v
-
-
-Screenshot : 
-
-
-!\[git remote](docs/images/git-remote-v.png)
-
-
-
-
-13-git reset
+\## git commit -m
 
 
 Screenshot : 
 
 
-!\[git reset](docs/images/git-reset.png)
+!\[git commit](images/git-commit-m.png)
 
 
 
 
-14-git restore --staged
-
-
-Screenshot : 
-
-
-!\[git restore --staged](docs/images/git-restore--staged.png)
-
-
-
-
-15-git restore
+\## git log
 
 
 Screenshot : 
 
 
-!\[git restore](docs/images/git-restore.png)
+!\[git log](images/git-log.png)
 
 
 
 
-16-git merge (fast forward)
-
-
-Screenshot : 
-
-
-!\[git merge](docs/images/fast-forward-merge.png)
-
-
-
-
-17-merge conflict
+\## git diff
 
 
 Screenshot : 
 
 
-!\[conflict in git](docs/images/merge-conflict.png)
+!\[git diff](images/git-diff.png)
 
 
 
 
-18-merge conflict solved 
-
-
-Screenshot : 
-
-
-!\[conflict solved](docs/images/merge-conflict-solved.png)
-
-
-
-
-19-git stash
+\## git remote -v
 
 
 Screenshot : 
 
 
-!\[git stash](docs/images/git-stash.png)
+!\[git remote](images/git-remote-v.png)
 
 
 
 
-20-git cherry-pick
+\## git reset
 
 
 Screenshot : 
 
 
-!\[git cherry-pick](docs/images/cherry-pick-1.png)
+!\[git reset](images/git-reset.png)
+
+
+
+
+\## git restore --staged
+
+
+Screenshot : 
+
+
+!\[git restore --staged](images/git-restore--staged.png)
+
+
+
+
+\## git restore
+
+
+Screenshot : 
+
+
+!\[git restore](images/git-restore.png)
+
+
+
+
+\## git merge (fast forward)
+
+
+Screenshot : 
+
+
+!\[git merge](images/fast-forward-merge.png)
+
+
+
+
+\## merge conflict
+
+
+Screenshot : 
+
+
+!\[conflict in git](images/merge-conflict.png)
+
+
+
+
+\## merge conflict solved 
+
+
+Screenshot : 
+
+
+!\[conflict solved](images/merge-conflict-solved.png)
+
+
+
+
+\## git stash
+
+
+Screenshot : 
+
+
+!\[git stash](images/git-stash.png)
+
+
+
+
+\## git cherry-pick
+
+
+Screenshot : 
+
+
+!\[git cherry-pick](images/cherry-pick-1.png)
              
-!\[git cherry-pick](docs/images/cherry-pick-2.png)
+!\[git cherry-pick](images/cherry-pick-2.png)
 
 
 
 
-21-git push 
+\## git push 
 
 
 
@@ -236,7 +236,7 @@ Screenshot :
 
 &nbsp;  
 
-!\[git push](docs/images/git-push.png)
+!\[git push](images/git-push.png)
 
 
 
@@ -246,7 +246,7 @@ Screenshot :
 
 
 
-#### **Conclusion**
+Conclusion
 
 
 
@@ -254,36 +254,37 @@ This assignment demonstrates practical usage of Git commands including:
 
 
 
-* Repository cloning
+Repository cloning
 
 
 
-* Staging and committing changes
+Staging and committing changes
 
 
 
-* Branch creation and switching
+Branch creation and switching
 
 
 
-* Fast-forward merge
+Fast-forward merge
 
 
 
-* Merge conflict creation and resolution
+Merge conflict creation and resolution
 
 
 
-* Git stash usage
+Git stash usage
 
 
 
-* Cherry-pick usage
+Cherry-pick usage
 
 
 
-* Reset and restore commands
+Reset and restore commands
 
 
 
-* Remote repository operations
+Remote repository operations
+
