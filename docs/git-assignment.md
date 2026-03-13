@@ -7,69 +7,92 @@ This document demonstrates the Git commands practiced during the assignment alon
 
 
 1. Branch and Checkout 
-   Screenshot : !\[git branch and checkout](images/branch\_checkout.png)
+   Screenshot : 
+   !\[git branch and checkout](images/branch\_checkout.png)
    
 2. Making Files
-   Screenshot : !\[making files](images/making files.png)
+   Screenshot : 
+   !\[making files](images/making files.png)
    
 3. Modify Files
-   Screenshot : !\[modify files](images/modify files.png)
+   Screenshot : 
+   !\[modify files](images/modify files.png)
    
 4. cd and pwd
-   Screenshot : !\[cd and pwd](images/cd\_pwd.png)
+   Screenshot : 
+   !\[cd and pwd](images/cd\_pwd.png)
     
 5. git add
-   Screenshot : !\[git add](images/git add.png)
+   Screenshot : 
+   !\[git add](images/git add.png)
    
 6. git branch
-   Screenshot : !\[git branch](images/git branch.png)
+   Screenshot : 
+   !\[git branch](images/git branch.png)
    
 7. new feature branch
-   Screenshot : !\[git branch feature-branch](images/new feature branch.png)
+   Screenshot : 
+   !\[git branch feature-branch](images/new feature branch.png)
    
 8. git clone 
-   Screenshot : !\[git clone](images/git clone.png)
+   Screenshot : 
+   !\[git clone](images/git clone.png)
    
 9. git commit -m
-   Screenshot : !\[git commit](images/git commit -m.png)
+   Screenshot : 
+   !\[git commit](images/git commit -m.png)
    
 10. git log
-    Screenshot : !\[git log](images/git log.png)
+    Screenshot : 
+    !\[git log](images/git log.png)
     
 11. git diff
-    Screenshot : !\[git diff](images/git diff.png)
+    Screenshot : 
+    !\[git diff](images/git diff.png)
     
 12. git remote -v
-    Screenshot : !\[git remote](images/git remote -v.png)
+    Screenshot : 
+    !\[git remote](images/git remote -v.png)
     
 13. git reset
-    Screenshot : !\[git reset](images/git reset.png)
+    Screenshot : 
+    !\[git reset](images/git reset.png)
     
 14. git restore --staged
-    Screenshot : !\[git restore --staged](images/git restore --staged.png)
+    Screenshot : 
+    !\[git restore --staged](images/git restore --staged.png)
     
 15. git restore
-    Screenshot : !\[git restore](images/git restore.png)
+    Screenshot : 
+    !\[git restore](images/git restore.png)
     
 16. git merge (fast forward)
-    Screenshot : !\[git merge](images/fast-forward merge.png)
+    Screenshot : 
+    !\[git merge](images/fast-forward merge.png)
     
 17. merge conflict
-    Screenshot : !\[conflict in git](images/merge conflict.png)
+    Screenshot : 
+    !\[conflict in git](images/merge conflict.png)
     
 18. merge conflict solved 
-    Screenshot : !\[conflict solved](images/merge conflict solved.png)
+    Screenshot : 
+    !\[conflict solved](images/merge conflict solved.png)
     
 19. git stash
-    Screenshot : !\[git stash](images/git stash.png)
+    Screenshot : 
+    !\[git stash](images/git stash.png)
     
 20. git cherry-pick
-    Screenshot : !\[git cherry-pick](images/cherry pick 1.png)
-                 !\[git cherry-pick](images/cherry pick 2.png)
+    Screenshot : 
+    !\[git cherry-pick](images/cherry pick 1.png)
+                 
+    !\[git cherry-pick](images/cherry pick 2.png)
     
 21. git push 
 
-&nbsp;  Screenshot : !\[git push](images/git push.png)
+&nbsp;  Screenshot : 
+
+&nbsp;  !\[git push](images/git push.png)
 
 
 
