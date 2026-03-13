@@ -12,7 +12,7 @@ This document demonstrates the Git commands practiced during the assignment alon
 Screenshot : 
 
 
-!\[git branch and checkout](images/branch\_checkout.png)
+!\[git branch and checkout](docs/images/branch\_checkout.png)
 
 
 
@@ -23,7 +23,7 @@ Screenshot :
 Screenshot : 
 
 
-!\[making files](images/making-files.png)
+!\[making files](docs/images/making-files.png)
 
 
 
@@ -34,7 +34,7 @@ Screenshot :
 Screenshot : 
 
 
-!\[modify files](images/modify-files.png)
+!\[modify files](docs/images/modify-files.png)
 
 
 
@@ -45,7 +45,7 @@ Screenshot :
 Screenshot : 
 
 
-!\[cd and pwd](images/cd\_pwd.png)
+!\[cd and pwd](docs/images/cd\_pwd.png)
  
 
 
@@ -56,7 +56,7 @@ Screenshot :
 Screenshot : 
 
 
-!\[git add](images/git-add.png)
+!\[git add](docs/images/git-add.png)
 
 
 
@@ -67,7 +67,7 @@ Screenshot :
 Screenshot : 
 
 
-!\[git branch](images/git-branch.png)
+!\[git branch](docs/images/git-branch.png)
 
 
 
@@ -78,7 +78,7 @@ Screenshot :
 Screenshot : 
 
 
-!\[git branch feature-branch](images/new-feature-branch.png)
+!\[git branch feature-branch](docs/images/new-feature-branch.png)
 
 
 
@@ -89,7 +89,7 @@ Screenshot :
 Screenshot : 
 
 
-!\[git clone](images/git-clone.png)
+!\[git clone](docs/images/git-clone.png)
 
 
 
@@ -100,7 +100,7 @@ Screenshot :
 Screenshot : 
 
 
-!\[git commit](images/git-commit-m.png)
+!\[git commit](docs/images/git-commit-m.png)
 
 
 
@@ -111,7 +111,7 @@ Screenshot :
 Screenshot : 
 
 
-!\[git log](images/git-log.png)
+!\[git log](docs/images/git-log.png)
 
 
 
@@ -122,7 +122,7 @@ Screenshot :
 Screenshot : 
 
 
-!\[git diff](images/git-diff.png)
+!\[git diff](docs/images/git-diff.png)
 
 
 
@@ -133,7 +133,7 @@ Screenshot :
 Screenshot : 
 
 
-!\[git remote](images/git-remote-v.png)
+!\[git remote](docs/images/git-remote-v.png)
 
 
 
@@ -144,7 +144,7 @@ Screenshot :
 Screenshot : 
 
 
-!\[git reset](images/git-reset.png)
+!\[git reset](docs/images/git-reset.png)
 
 
 
@@ -155,7 +155,7 @@ Screenshot :
 Screenshot : 
 
 
-!\[git restore --staged](images/git-restore--staged.png)
+!\[git restore --staged](docs/images/git-restore--staged.png)
 
 
 
@@ -166,7 +166,7 @@ Screenshot :
 Screenshot : 
 
 
-!\[git restore](images/git-restore.png)
+!\[git restore](docs/images/git-restore.png)
 
 
 
@@ -177,7 +177,7 @@ Screenshot :
 Screenshot : 
 
 
-!\[git merge](images/fast-forward-merge.png)
+!\[git merge](docs/images/fast-forward-merge.png)
 
 
 
@@ -188,7 +188,7 @@ Screenshot :
 Screenshot : 
 
 
-!\[conflict in git](images/merge-conflict.png)
+!\[conflict in git](docs/images/merge-conflict.png)
 
 
 
@@ -199,7 +199,7 @@ Screenshot :
 Screenshot : 
 
 
-!\[conflict solved](images/merge-conflict-solved.png)
+!\[conflict solved](docs/images/merge-conflict-solved.png)
 
 
 
@@ -210,7 +210,7 @@ Screenshot :
 Screenshot : 
 
 
-!\[git stash](images/git-stash.png)
+!\[git stash](docs/images/git-stash.png)
 
 
 
@@ -221,9 +221,9 @@ Screenshot :
 Screenshot : 
 
 
-!\[git cherry-pick](images/cherry-pick-1.png)
+!\[git cherry-pick](docs/images/cherry-pick-1.png)
              
-!\[git cherry-pick](images/cherry-pick-2.png)
+!\[git cherry-pick](docs/images/cherry-pick-2.png)
 
 
 
@@ -236,7 +236,7 @@ Screenshot :
 
 &nbsp;  
 
-!\[git push](images/git-push.png)
+!\[git push](docs/images/git-push.png)
 
 
 
