@@ -6,57 +6,57 @@ This document demonstrates the Git commands practiced during the assignment alon
 
 
 
-\## Branch and Checkout 
+## Branch and Checkout 
 
 
 Screenshot : 
 
 
-!\[git branch and checkout](images/branch\_checkout.png)
+![git branch and checkout](images/branch\_checkout.png)
 
 
 
 
-\## Making Files
-
-
-Screenshot : 
-
-
-!\[making files](images/making-files.png)
-
-
-
-
-\## Modify Files
+## Making Files
 
 
 Screenshot : 
 
 
-!\[modify files](images/modify-files.png)
+![making files](images/making-files.png)
 
 
 
 
-\## cd and pwd
+## Modify Files
 
 
 Screenshot : 
 
 
-!\[cd and pwd](images/cd\_pwd.png)
+![modify files](images/modify-files.png)
+
+
+
+
+## cd and pwd
+
+
+Screenshot : 
+
+
+![cd and pwd](images/cd\_pwd.png)
  
 
 
 
-\## git add
+## git add
 
 
 Screenshot : 
 
 
-!\[git add](images/git-add.png)
+![git add](images/git-add.png)
 
 
 
