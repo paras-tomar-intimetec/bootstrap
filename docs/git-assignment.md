@@ -61,174 +61,174 @@ Screenshot :
 
 
 
-\## git branch
+## git branch
 
 
 Screenshot : 
 
 
-!\[git branch](images/git-branch.png)
+![git branch](images/git-branch.png)
 
 
 
 
-\## new feature branch
-
-
-Screenshot : 
-
-
-!\[git branch feature-branch](images/new-feature-branch.png)
-
-
-
-
-\## git clone 
+## new feature branch
 
 
 Screenshot : 
 
 
-!\[git clone](images/git-clone.png)
+![git branch feature-branch](images/new-feature-branch.png)
 
 
 
 
-\## git commit -m
-
-
-Screenshot : 
-
-
-!\[git commit](images/git-commit-m.png)
-
-
-
-
-\## git log
+## git clone 
 
 
 Screenshot : 
 
 
-!\[git log](images/git-log.png)
+![git clone](images/git-clone.png)
 
 
 
 
-\## git diff
-
-
-Screenshot : 
-
-
-!\[git diff](images/git-diff.png)
-
-
-
-
-\## git remote -v
+## git commit -m
 
 
 Screenshot : 
 
 
-!\[git remote](images/git-remote-v.png)
+![git commit](images/git-commit-m.png)
 
 
 
 
-\## git reset
-
-
-Screenshot : 
-
-
-!\[git reset](images/git-reset.png)
-
-
-
-
-\## git restore --staged
+## git log
 
 
 Screenshot : 
 
 
-!\[git restore --staged](images/git-restore--staged.png)
+![git log](images/git-log.png)
 
 
 
 
-\## git restore
-
-
-Screenshot : 
-
-
-!\[git restore](images/git-restore.png)
-
-
-
-
-\## git merge (fast forward)
+## git diff
 
 
 Screenshot : 
 
 
-!\[git merge](images/fast-forward-merge.png)
+![git diff](images/git-diff.png)
 
 
 
 
-\## merge conflict
-
-
-Screenshot : 
-
-
-!\[conflict in git](images/merge-conflict.png)
-
-
-
-
-\## merge conflict solved 
+## git remote -v
 
 
 Screenshot : 
 
 
-!\[conflict solved](images/merge-conflict-solved.png)
+![git remote](images/git-remote-v.png)
 
 
 
 
-\## git stash
-
-
-Screenshot : 
-
-
-!\[git stash](images/git-stash.png)
-
-
-
-
-\## git cherry-pick
+## git reset
 
 
 Screenshot : 
 
 
-!\[git cherry-pick](images/cherry-pick-1.png)
+![git reset](images/git-reset.png)
+
+
+
+
+## git restore --staged
+
+
+Screenshot : 
+
+
+![git restore --staged](images/git-restore--staged.png)
+
+
+
+
+## git restore
+
+
+Screenshot : 
+
+
+![git restore](images/git-restore.png)
+
+
+
+
+## git merge (fast forward)
+
+
+Screenshot : 
+
+
+![git merge](images/fast-forward-merge.png)
+
+
+
+
+## merge conflict
+
+
+Screenshot : 
+
+
+![conflict in git](images/merge-conflict.png)
+
+
+
+
+## merge conflict solved 
+
+
+Screenshot : 
+
+
+![conflict solved](images/merge-conflict-solved.png)
+
+
+
+
+## git stash
+
+
+Screenshot : 
+
+
+![git stash](images/git-stash.png)
+
+
+
+
+## git cherry-pick
+
+
+Screenshot : 
+
+
+![git cherry-pick](images/cherry-pick-1.png)
              
-!\[git cherry-pick](images/cherry-pick-2.png)
+![git cherry-pick](images/cherry-pick-2.png)
 
 
 
 
-\## git push 
+## git push 
 
 
 
@@ -236,7 +236,7 @@ Screenshot :
 
 &nbsp;  
 
-!\[git push](images/git-push.png)
+![git push](images/git-push.png)
 
 
 
