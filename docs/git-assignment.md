@@ -1,176 +1,290 @@
 Git Practice Assignment
 
+
+
 This document demonstrates the Git commands practiced during the assignment along with screenshots.
+
+
 
 ## Branch and Checkout 
 
+
 Screenshot : 
 
-![git branch and checkout](docs/images/branch_checkout.png)
+
+![git branch and checkout](images/branch\_checkout.png)
+
+
 
 
 ## Making Files
 
+
 Screenshot : 
 
-![making files](docs/images/making-files.png)
+
+![making files](images/making-files.png)
+
+
 
 
 ## Modify Files
 
+
 Screenshot : 
 
-![modify files](docs/images/modify-files.png)
+
+![modify files](images/modify-files.png)
+
+
 
 
 ## cd and pwd
 
+
 Screenshot : 
 
-![cd and pwd](docs/images/cd_pwd.png)
+
+![cd and pwd](images/cd\_pwd.png)
  
+
+
 
 ## git add
 
+
 Screenshot : 
 
-![git add](docs/images/git-add.png)
+
+![git add](images/git-add.png)
+
+
 
 
 ## git branch
 
+
 Screenshot : 
 
-![git branch](docs/images/git-branch.png)
+
+![git branch](images/git-branch.png)
+
+
 
 
 ## new feature branch
 
+
 Screenshot : 
 
-![git branch feature-branch](docs/images/new-feature-branch.png)
+
+![git branch feature-branch](images/new-feature-branch.png)
+
+
 
 
 ## git clone 
 
+
 Screenshot : 
 
-![git clone](docs/images/git-clone.png)
+
+![git clone](images/git-clone.png)
+
+
 
 
 ## git commit -m
 
+
 Screenshot : 
 
-![git commit](docs/images/git-commit-m.png)
+
+![git commit](images/git-commit-m.png)
+
+
 
 
 ## git log
 
+
 Screenshot : 
 
-![git log](docs/images/git-log.png)
+
+![git log](images/git-log.png)
+
+
 
 
 ## git diff
 
+
 Screenshot : 
 
-![git diff](docs/images/git-diff.png)
+
+![git diff](images/git-diff.png)
+
+
 
 
 ## git remote -v
 
+
 Screenshot : 
 
-![git remote](docs/images/git-remote-v.png)
+
+![git remote](images/git-remote-v.png)
+
+
 
 
 ## git reset
 
+
 Screenshot : 
 
-![git reset](docs/images/git-reset.png)
+
+![git reset](images/git-reset.png)
+
+
 
 
 ## git restore --staged
 
+
 Screenshot : 
 
-![git restore --staged](docs/images/git-restore--staged.png)
+
+![git restore --staged](images/git-restore--staged.png)
+
+
 
 
 ## git restore
 
+
 Screenshot : 
 
-![git restore](docs/images/git-restore.png)
+
+![git restore](images/git-restore.png)
+
+
 
 
 ## git merge (fast forward)
 
+
 Screenshot : 
 
-![git merge](docs/images/fast-forward-merge.png)
+
+![git merge](images/fast-forward-merge.png)
+
+
 
 
 ## merge conflict
 
+
 Screenshot : 
 
-![conflict in git](docs/images/merge-conflict.png)
+
+![conflict in git](images/merge-conflict.png)
+
+
 
 
 ## merge conflict solved 
 
+
 Screenshot : 
 
-![conflict solved](docs/images/merge-conflict-solved.png)
+
+![conflict solved](images/merge-conflict-solved.png)
+
+
 
 
 ## git stash
 
+
 Screenshot : 
 
-![git stash](docs/images/git-stash.png)
+
+![git stash](images/git-stash.png)
+
+
 
 
 ## git cherry-pick
 
+
 Screenshot : 
 
-![git cherry-pick](docs/images/cherry-pick-1.png)
+
+![git cherry-pick](images/cherry-pick-1.png)
              
-![git cherry-pick](docs/images/cherry-pick-2.png)
+![git cherry-pick](images/cherry-pick-2.png)
+
+
 
 
 ## git push 
 
+
+
 Screenshot : 
-   
-![git push](docs/images/git-push.png)
+
+&nbsp;  
+
+![git push](images/git-push.png)
+
+
+
+
+
 
 
 
 
 Conclusion
 
+
+
 This assignment demonstrates practical usage of Git commands including:
+
+
 
 Repository cloning
 
+
+
 Staging and committing changes
+
+
 
 Branch creation and switching
 
+
+
 Fast-forward merge
+
+
 
 Merge conflict creation and resolution
 
+
+
 Git stash usage
+
+
 
 Cherry-pick usage
 
+
+
 Reset and restore commands
 
+
+
 Remote repository operations
+
