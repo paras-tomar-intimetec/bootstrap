@@ -6,4 +6,8 @@ main branch work
 feature work
 
 main new change
+
 rebase example for merge conflict in main branch
+
+
+
