@@ -244,3 +244,18 @@ Thank you to all our backers! 🙏 [[Become a backer](https://opencollective.com
 ## Copyright and license
 
 Code and documentation copyright 2011-2025 the [Bootstrap Authors](https://github.com/twbs/bootstrap/graphs/contributors). Code released under the [MIT License](https://github.com/twbs/bootstrap/blob/main/LICENSE). Docs released under [Creative Commons](https://creativecommons.org/licenses/by/3.0/).
+
+## Week-1 Git Assignment
+
+This repository contains my Git practice work as part of SDET training.
+
+## Topics Covered
+
+- Git Basics
+- Git workflow (add, commit, push)
+- Branching and merging
+- Rebase vs merge
+- Conflict resolution
+- Git reset, restore, tag
+- Git stash and cherry-pick
+- Remote repository operations

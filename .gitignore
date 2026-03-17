@@ -37,6 +37,7 @@ Thumbs.db
 /dist-sass/
 /js/coverage/
 /node_modules/
+/ToIgnore/
 
 # Site
 /site/dist
