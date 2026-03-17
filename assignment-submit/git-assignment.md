@@ -1,5 +1,3 @@
-## Git Practice Assignment
-
 This document demonstrates the Git commands practiced during the assignment along with screenshots.
 
 ## Branch and Checkout
@@ -128,3 +126,15 @@ Screenshot :
 Screenshot :
  
 ![git push](images/git-push.png)
+
+## git tag
+
+Screenshot:
+
+![git push](images/git-tag.png)
+
+## git hotfix
+
+Screenshot:
+
+![git push](images/hotfix.png)
